@@ -1,0 +1,128 @@
+.frame-2 .vector-2 {
+  transform: rotate(21.109deg);
+  position: absolute;
+  top: 122px;
+  right: 112.9px;
+  width: 137.6px;
+  height: 66.4px;
+}
+.frame-2 .container {
+  overflow-wrap: break-word;
+  font-family: 'SF Pro Text', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: -0.5px;
+  line-height: 1.333;
+  color: var(--label-color-dark-primary, #FFFFFF);
+}
+.frame-2 .left-side {
+  border-radius: 24px;
+  display: flex;
+  box-sizing: border-box;
+}
+.frame-2 .mobile-signal {
+  margin: 0.3px 5px 0.3px 0;
+  width: 17px;
+  height: 10.7px;
+}
+.frame-2 .wifi {
+  margin: 0 5px 0.4px 0;
+  width: 15.3px;
+  height: 11px;
+}
+.frame-2 .battery {
+  margin-top: 0px;
+  width: 24.3px;
+  height: 11.3px;
+}
+.frame-2 .right-side {
+  margin: 4.3px 0;
+  display: flex;
+  flex-direction: row;
+  width: 66.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-2 .status-bar-iphone-1313-pro {
+  position: relative;
+  margin: 0 22.7px 28.5px 37.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 60.1px);
+  box-sizing: border-box;
+}
+.frame-2 .welcome-pratik {
+  position: relative;
+  margin: 0 27px 118.1px 27px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  letter-spacing: -0.4px;
+  line-height: 0.967;
+  color: #FFFFFF;
+}
+.frame-2 .ciao {
+  position: relative;
+  margin: 0 0 48.4px 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Playfair Display';
+  font-weight: 400;
+  font-size: 14.6px;
+  letter-spacing: 18.5px;
+  line-height: 0.744;
+  color: #FFFFFF;
+}
+.frame-2 .add-device {
+  position: relative;
+  margin: 0 0 47px 1.8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 30px;
+  letter-spacing: -0.5px;
+  line-height: 0.967;
+  color: #FFFFFF;
+}
+.frame-2 .add-1 {
+  width: 29px;
+  height: 29px;
+}
+.frame-2 .vuesaxlinearadd-1 {
+  display: flex;
+  width: 29px;
+  height: 29px;
+  box-sizing: border-box;
+}
+.frame-2 .frame-21 {
+  backdrop-filter: blur(20px);
+  border-radius: 24.7px;
+  border: 1px solid #FFFFFF;
+  background: linear-gradient(350.1deg, #A01760 71.3%, rgba(227, 92, 164, 0.48) 221.93%);
+  position: relative;
+  margin: 0 36px 316px 38px;
+  display: flex;
+  padding: 15px 0 10px 5px;
+  width: calc(100% - 74px);
+  height: 54px;
+  box-sizing: border-box;
+}
+.frame-2 .tab-bar {
+  position: relative;
+  width: 390px;
+  height: 136px;
+}
+.frame-2 {
+  border-radius: 40px;
+  background: #26292E;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 13px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,291 @@
+.frame-1 .vector-1 {
+  transform: rotate(21.109deg);
+  position: absolute;
+  top: 130.9px;
+  right: 113.9px;
+  width: 137.6px;
+  height: 66.4px;
+}
+.frame-1 .container {
+  overflow-wrap: break-word;
+  font-family: 'SF Pro Text', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: -0.5px;
+  line-height: 1.333;
+  color: var(--label-color-dark-primary, #FFFFFF);
+}
+.frame-1 .left-side {
+  border-radius: 24px;
+  display: flex;
+  box-sizing: border-box;
+}
+.frame-1 .mobile-signal {
+  margin: 0.3px 5px 0.3px 0;
+  width: 17px;
+  height: 10.7px;
+}
+.frame-1 .wifi {
+  margin: 0 5px 0.4px 0;
+  width: 15.3px;
+  height: 11px;
+}
+.frame-1 .battery {
+  margin-top: 0px;
+  width: 24.3px;
+  height: 11.3px;
+}
+.frame-1 .right-side {
+  margin: 4.3px 0;
+  display: flex;
+  flex-direction: row;
+  width: 66.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .status-bar-iphone-1313-pro {
+  position: relative;
+  margin-bottom: 178.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.frame-1 .ciao {
+  position: relative;
+  margin: 0 15.8px 46.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Playfair Display';
+  font-weight: 400;
+  font-size: 14.6px;
+  letter-spacing: 18.5px;
+  line-height: 0.744;
+  color: #FFFFFF;
+}
+.frame-1 .log-in {
+  position: relative;
+  margin: 0 236.1px 41px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 30px;
+  letter-spacing: -0.5px;
+  line-height: 0.967;
+  color: #FFFFFF;
+}
+.frame-1 .user {
+  width: 24px;
+  height: 24px;
+}
+.frame-1 .vuesaxlinearuser {
+  margin: 1px 8px 4px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.frame-1 .username {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: -0.5px;
+  line-height: 1.706;
+  color: rgba(255, 255, 255, 0.7);
+}
+.frame-1 .container-1 {
+  border-radius: 24.7px;
+  border: 3px solid #A01760;
+  position: relative;
+  margin: 0 10.3px 29px 10.3px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  padding: 14px 0 11px 22px;
+  width: 316px;
+  box-sizing: border-box;
+}
+.frame-1 .lock {
+  width: 24px;
+  height: 24px;
+}
+.frame-1 .vuesaxlinearlock {
+  margin: 2px 8px 3px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.frame-1 .password {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: -0.5px;
+  line-height: 1.706;
+  color: rgba(255, 255, 255, 0.7);
+}
+.frame-1 .container {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.frame-1 .eye-slash {
+  width: 24px;
+  height: 24px;
+}
+.frame-1 .vuesaxlineareye-slash {
+  margin: 2px 0 3px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.frame-1 .container-2 {
+  border-radius: 24.7px;
+  border: 3px solid #A01760;
+  position: relative;
+  margin: 0 10.3px 41px 10.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-end;
+  padding: 13px 28px 12px 22px;
+  width: 316px;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-3 {
+  border-radius: 8px;
+  border: 1.8px solid #F9F9F9;
+  margin: 3px 11px 3px 0;
+  width: 23px;
+  height: 23px;
+}
+.frame-1 .remember-me {
+  margin-right: 18.8px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: -0.5px;
+  line-height: 1.706;
+  color: #FFFFFF;
+}
+.frame-1 .forgot-password {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: -0.5px;
+  line-height: 1.706;
+  color: #A01760;
+}
+.frame-1 .container-4 {
+  position: relative;
+  margin: 0 10px 29px 10px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .log-in-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24.5px;
+  letter-spacing: -0.4px;
+  line-height: 0.967;
+  color: #FFFFFF;
+}
+.frame-1 .frame-2 {
+  border-radius: 24.7px;
+  background: #A01760;
+  position: relative;
+  margin: 0 12.3px 34px 1.5px;
+  display: flex;
+  padding: 15px 1px 15px 0;
+  width: calc(100% - 13.9px);
+  box-sizing: border-box;
+}
+.frame-1 .or-sign-in-with {
+  position: relative;
+  margin: 0 13.2px 21px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: -0.5px;
+  line-height: 1.706;
+  color: #FFFFFF;
+}
+.frame-1 .facebook {
+  margin-right: 20px;
+  width: 32px;
+  height: 32px;
+}
+.frame-1 .twitter {
+  margin-right: 20px;
+  width: 32px;
+  height: 32px;
+}
+.frame-1 .linkedin {
+  margin-right: 15px;
+  width: 32px;
+  height: 32px;
+}
+.frame-1 .google {
+  width: 32px;
+  height: 32px;
+}
+.frame-1 .container-5 {
+  position: relative;
+  margin: 0 13.8px 21px 0;
+  display: flex;
+  flex-direction: row;
+  width: 183px;
+  box-sizing: border-box;
+}
+.frame-1 .dont-have-an-account {
+  margin-right: 14.5px;
+  width: 193px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: -0.5px;
+  line-height: 1.706;
+  color: #FFFFFF;
+}
+.frame-1 .sign-up {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: -0.5px;
+  line-height: 1.706;
+  color: #A01760;
+}
+.frame-1 .container-3 {
+  position: relative;
+  margin: 0 1.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 289.3px;
+  box-sizing: border-box;
+}
+.frame-1 {
+  border-radius: 40px;
+  background: #26292E;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 13px 22.7px 49px 37.5px;
+  box-sizing: border-box;
+}

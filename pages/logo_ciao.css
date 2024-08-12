@@ -1,0 +1,24 @@
+.logo-ciao .vector-1 {
+  transform: rotate(21.109deg);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.logo-ciao .ciao {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Playfair Display';
+  font-weight: 400;
+  font-size: 14.6px;
+  letter-spacing: 18.5px;
+  line-height: 0.744;
+  color: #FFFFFF;
+}
+.logo-ciao {
+  display: flex;
+  padding: 80.6px 11px 20px 0;
+  box-sizing: border-box;
+}

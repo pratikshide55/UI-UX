@@ -1,0 +1,46 @@
+.nt .ellipse-1 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25), -18px -18px 36px 0px rgba(255, 255, 255, 0.25);
+  border-radius: 84px;
+  background: linear-gradient(139.25deg, #26292E 17%, #000000 78.44%);
+  position: absolute;
+  left: 50%;
+  top: 52px;
+  translate: -50% 0;
+  width: 168px;
+  height: 168px;
+}
+.nt .ellipse-2 {
+  box-shadow: inset 1px 2px 2px 0px rgba(255, 255, 255, 0.08), inset -26px -26px 52px 0px #6F7379, inset 26px 26px 52px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 60px;
+  background: #26292E;
+  position: relative;
+  width: 120px;
+  height: 120px;
+}
+.nt .ellipse-3 {
+  transform: rotate(138.179deg);
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 192px;
+  height: 192px;
+}
+.nt .container {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  translate: -50% -50%;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 25px;
+  letter-spacing: -0.5px;
+  line-height: 1.16;
+  color: #FFFFFF;
+}
+.nt {
+  display: flex;
+  padding: 76px 0 75.1px 0.9px;
+  box-sizing: border-box;
+}

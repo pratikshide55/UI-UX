@@ -1,0 +1,602 @@
+.frame-8 .cloud {
+  width: 56px;
+  height: 56px;
+}
+.frame-8 .vuesaxlinearcloud-1 {
+  position: absolute;
+  left: 50px;
+  bottom: 275px;
+  display: flex;
+  width: 56px;
+  height: 56px;
+  box-sizing: border-box;
+}
+.frame-8 .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'SF Pro Text', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: -0.5px;
+  line-height: 1.333;
+  color: var(--label-color-dark-primary, #FFFFFF);
+}
+.frame-8 .left-side {
+  border-radius: 24px;
+  display: flex;
+  box-sizing: border-box;
+}
+.frame-8 .mobile-signal {
+  margin: 0.3px 5px 0.3px 0;
+  width: 17px;
+  height: 10.7px;
+}
+.frame-8 .wifi {
+  margin: 0 5px 0.4px 0;
+  width: 15.3px;
+  height: 11px;
+}
+.frame-8 .battery {
+  margin-top: 0px;
+  width: 24.3px;
+  height: 11.3px;
+}
+.frame-8 .right-side {
+  margin: 4.3px 0;
+  display: flex;
+  flex-direction: row;
+  width: 66.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-8 .status-bar-iphone-1313-pro {
+  margin: 0 37.5px 38px 37.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 389px;
+  box-sizing: border-box;
+}
+.frame-8 .profil-button {
+  margin: 0 18px 3px 0;
+  width: 62px;
+  height: 62px;
+}
+.frame-8 .welcome-pratik {
+  margin-bottom: 7.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  letter-spacing: -0.4px;
+  line-height: 0.967;
+  color: #FFFFFF;
+}
+.frame-8 .location {
+  width: 24px;
+  height: 24px;
+}
+.frame-8 .vuesaxlinearlocation {
+  margin: 2px 9px 3px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.frame-8 .pune-maharashtra {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: -0.5px;
+  line-height: 1.706;
+  color: rgba(255, 255, 255, 0.7);
+}
+.frame-8 .container-1 {
+  margin-right: 8.7px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-8 .container-10 {
+  margin-top: 5.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.frame-8 .container-9 {
+  margin: 0 106.8px 65px 0;
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-8 .vector-10 {
+  box-shadow: inset -10px -10px 10px 0px rgba(0, 0, 0, 0.25), 10px 0px 10px 0px rgba(0, 0, 0, 0.25), inset 10px 10px 15px 0px rgba(0, 0, 0, 0.25);
+  margin-right: 19.9px;
+  width: 194px;
+  height: 137px;
+}
+.frame-8 .c {
+  box-shadow: 0px 4.4px 4.4px 0px #191B1F;
+  margin-bottom: 8.4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 54.4px;
+  letter-spacing: 0.4px;
+  line-height: 0.82;
+  background: linear-gradient(277.73deg, #BD0964 76.5%, rgba(234, 78, 157, 0.95) 208.7%);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.frame-8 .vector-11 {
+  width: 18.4px;
+  height: 21.8px;
+}
+.frame-8 .vuesaxlineardrop {
+  margin: 10px 9.9px 13.2px 0;
+  display: flex;
+  width: 27.2px;
+  height: 26.1px;
+  box-sizing: border-box;
+}
+.frame-8 .container {
+  box-shadow: 0px 2.2px 4.4px 0px #191B1F;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 18.5px;
+  letter-spacing: 0.4px;
+  line-height: 2.412;
+  background: linear-gradient(277.73deg, #DCC8D2 76.5%, rgba(234, 78, 157, 0.95) 191.34%);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.frame-8 .container-5 {
+  margin: 0 4.8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-8 .container-4 {
+  margin: 19.8px 0 18.8px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-8 .container-11 {
+  margin: 0 32px 70px 32px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-8 .today-23-jun {
+  margin-right: 14.5px;
+  width: 112px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: -0.5px;
+  line-height: 1.706;
+  color: #FF6DB6;
+}
+.frame-8 .mon-24-jun {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: -0.5px;
+  line-height: 1.706;
+  color: rgba(255, 255, 255, 0.7);
+}
+.frame-8 .tue-25-jun {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: -0.5px;
+  line-height: 1.706;
+  color: rgba(255, 255, 255, 0.7);
+}
+.frame-8 .frame-3703 {
+  margin: 0 15px 36px 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 360px;
+  box-sizing: border-box;
+}
+.frame-8 .am-1 {
+  margin-bottom: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: -0.5px;
+  line-height: 1.706;
+  color: rgba(255, 255, 255, 0.7);
+}
+.frame-8 .cloud-2 {
+  position: relative;
+  width: 56px;
+  height: 56px;
+}
+.frame-8 .cloud-3 {
+  width: 56px;
+  height: 56px;
+}
+.frame-8 .vuesaxlinearcloud-3 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  display: flex;
+  width: 56px;
+  height: 56px;
+  box-sizing: border-box;
+}
+.frame-8 .vuesaxlinearcloud-2 {
+  position: relative;
+  margin: 0 6.3px 3px 5px;
+  display: flex;
+  width: 56px;
+  height: 56px;
+  box-sizing: border-box;
+}
+.frame-8 .c-2 {
+  margin: 0 16px 0 11.7px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: -0.5px;
+  line-height: 1.706;
+  color: rgba(255, 255, 255, 0.7);
+}
+.frame-8 .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-8 .am-3 {
+  position: absolute;
+  top: 8px;
+  right: 16.7px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: -0.5px;
+  line-height: 1.706;
+  color: rgba(255, 255, 255, 0.7);
+}
+.frame-8 .c-4 {
+  position: absolute;
+  left: 50%;
+  bottom: 15px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: -0.5px;
+  line-height: 1.706;
+  color: rgba(255, 255, 255, 0.7);
+}
+.frame-8 .thi-gian-s-1 {
+  backdrop-filter: blur(20px);
+  border-radius: 25px;
+  border: 3px solid #FFFFFF;
+  background: linear-gradient(350.1deg, #A01760 71.3%, rgba(227, 92, 164, 0.48) 221.93%);
+  position: relative;
+  display: flex;
+  padding: 8px 16.7px 15px 19px;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-8 .am {
+  position: absolute;
+  top: 8px;
+  right: 16.7px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: -0.5px;
+  line-height: 1.706;
+  color: rgba(255, 255, 255, 0.7);
+}
+.frame-8 .c-1 {
+  position: absolute;
+  left: 50%;
+  bottom: 15px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: -0.5px;
+  line-height: 1.706;
+  color: rgba(255, 255, 255, 0.7);
+}
+.frame-8 .container-2 {
+  position: relative;
+  margin: 0 15px 34px 0;
+  display: flex;
+  flex-grow: 1;
+  flex-basis: 103px;
+  box-sizing: border-box;
+}
+.frame-8 .am-2 {
+  margin-bottom: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: -0.5px;
+  line-height: 1.706;
+  color: rgba(255, 255, 255, 0.7);
+}
+.frame-8 .cloud-sunny {
+  width: 56px;
+  height: 56px;
+}
+.frame-8 .vuesaxlinearcloud-sunny {
+  margin: 0 6.8px 3px 0;
+  display: flex;
+  width: 56px;
+  height: 56px;
+  box-sizing: border-box;
+}
+.frame-8 .c-3 {
+  margin-right: 9.8px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: -0.5px;
+  line-height: 1.706;
+  color: rgba(255, 255, 255, 0.7);
+}
+.frame-8 .thi-gian-s-2 {
+  backdrop-filter: blur(20px);
+  border-radius: 25px;
+  border: 1px solid #FFFFFF;
+  background: linear-gradient(350.1deg, #A01760 71.3%, rgba(227, 92, 164, 0.48) 221.93%);
+  position: relative;
+  margin: 34px 19px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px 11.2px 11px 19px;
+  flex-grow: 1;
+  flex-basis: 103px;
+  box-sizing: border-box;
+}
+.frame-8 .am-4 {
+  margin-bottom: 3px;
+  display: inline-block;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: -0.5px;
+  line-height: 1.706;
+  color: rgba(255, 255, 255, 0.7);
+}
+.frame-8 .cloud-4 {
+  width: 56px;
+  height: 56px;
+}
+.frame-8 .vuesaxlinearcloud-4 {
+  margin: 0 0 3px 5px;
+  display: flex;
+  width: 56px;
+  height: 56px;
+  box-sizing: border-box;
+}
+.frame-8 .c-5 {
+  margin-left: 2px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: -0.5px;
+  line-height: 1.706;
+  color: rgba(255, 255, 255, 0.7);
+}
+.frame-8 .thi-gian-s-3 {
+  backdrop-filter: blur(20px);
+  border-radius: 25px;
+  border: 1px solid #FFFFFF;
+  background: linear-gradient(350.1deg, #A01760 71.3%, rgba(227, 92, 164, 0.48) 221.93%);
+  position: relative;
+  margin-right: 11px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px 14.1px 11px 14.1px;
+  width: 115px;
+  box-sizing: border-box;
+}
+.frame-8 .rectangle-22 {
+  backdrop-filter: blur(20px);
+  border-radius: 25px;
+  border: 1px solid #FFFFFF;
+  background: linear-gradient(350.1deg, #A01760 71.3%, rgba(227, 92, 164, 0.48) 221.93%);
+  width: 103px;
+  height: 143px;
+}
+.frame-8 .thi-gain-s-3 {
+  margin-top: 34px;
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+  flex-basis: 217px;
+  box-sizing: border-box;
+}
+.frame-8 .container {
+  margin: 0 0 18px 26px;
+  display: flex;
+  flex-direction: row;
+  width: calc(100% - 26px);
+  box-sizing: border-box;
+}
+.frame-8 .ellipse-2 {
+  border-radius: 18.5px;
+  background: #851A53;
+  margin: 121px 122.4px 0 0;
+  width: 37px;
+  height: 37px;
+}
+.frame-8 .next-week {
+  margin-bottom: 129px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 300;
+  font-size: 17px;
+  text-decoration-line: underline;
+  letter-spacing: -0.5px;
+  line-height: 1.706;
+  color: #FFFFFF;
+}
+.frame-8 .container-7 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.frame-8 .rectangle-6 {
+  backdrop-filter: blur(20px);
+  border-radius: 40px;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 390px;
+  height: 75px;
+}
+.frame-8 .add {
+  width: 30px;
+  height: 30px;
+}
+.frame-8 .vuesaxlinearadd {
+  display: flex;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.frame-8 .container-6 {
+  backdrop-filter: blur(10px);
+  border-radius: 34px;
+  background: linear-gradient(305.5deg, rgba(41, 14, 44, 0.3) 72.4%, rgba(131, 116, 116, 0.3) 211.2%);
+  position: absolute;
+  left: 50%;
+  top: 45px;
+  translate: -50% 0;
+  display: flex;
+  padding: 19px;
+  width: 68px;
+  height: 68px;
+  box-sizing: border-box;
+}
+.frame-8 .frame-5 {
+  width: 22px;
+  height: 22px;
+}
+.frame-8 .frame-4 {
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.frame-8 .cloud-1 {
+  width: 21.4px;
+  height: 21.4px;
+}
+.frame-8 .vuesaxlinearcloud {
+  margin-bottom: 0.6px;
+  display: flex;
+  width: 21.4px;
+  height: 21.4px;
+  box-sizing: border-box;
+}
+.frame-8 .setting {
+  width: 21.4px;
+  height: 21.4px;
+}
+.frame-8 .vuesaxlinearsetting {
+  margin-bottom: 0.6px;
+  display: flex;
+  width: 21.4px;
+  height: 21.4px;
+  box-sizing: border-box;
+}
+.frame-8 .profile-circle {
+  width: 21.4px;
+  height: 21.4px;
+}
+.frame-8 .vuesaxlinearprofile-circle {
+  margin-bottom: 0.6px;
+  display: flex;
+  width: 21.4px;
+  height: 21.4px;
+  box-sizing: border-box;
+}
+.frame-8 .frame-6 {
+  position: absolute;
+  right: 49.8px;
+  bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 285px;
+  box-sizing: border-box;
+}
+.frame-8 .tab-bar {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding: 0 14.4px 18px 14.4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-8 .container-8 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 483px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-8 {
+  border-radius: 40px;
+  background: #26292E;
+  display: flex;
+  padding-top: 13px;
+  box-sizing: border-box;
+}
